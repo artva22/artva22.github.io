@@ -1,0 +1,139 @@
+/*
+#1 color = #5C6AC3;
+#2 color = #3fbbc0;
+*/
+
+a:hover,
+a:focus {
+    color: #5C6AC3;
+}
+
+.circled {
+	background: #5C6AC3;
+}
+
+.con1 > div, .con2 > div, .con3 > div { 
+	background-color: #5C6AC3;
+}
+
+.scrollup:hover {
+	background: #5C6AC3;
+}
+
+
+/* service */
+
+.service-icon span {
+	color: #5C6AC3;
+}
+
+
+
+/* button */
+.btn-skin {
+  /* background-color: #5C6AC3; */
+  background-image: linear-gradient(to right, #1b2779, #3f4eb1);
+  border-color: #5C6AC3;
+}
+
+.btn-skin-fair {
+    /* background-color: #5C6AC3; */
+    background-color: #5c6ac300;
+    border-color: #fff;
+}
+
+.btn-skin-home {
+    background-color: #5c6ac300;
+    border-color: #ffffff;
+}
+
+.btn-skin-home:hover {
+    background-color: #fff;
+    color: #5C6AC3;
+}
+
+/* top */
+.top-area {
+    /* background: #5C6AC3; */
+    background-image: linear-gradient(to right, #fff, #fff);
+}
+
+/* menu */
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #3fbbc0;
+}
+.navbar-custom.top-nav-collapse .nav li a:hover,
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li.active a,.navbar-custom.top-nav-collapse .nav li.active a  {
+    color: #F86D07;
+}
+
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #5C6AC3;
+}
+
+
+.bg-skin {
+	background: #5C6AC3;
+}
+
+.highlight-color {
+	background-color: #5C6AC3;
+}
+.color {
+	color: #5C6AC3;
+}
+
+/* pricing box  */
+.pricing-content.featured h2,.pricing-content.featured .price-bottom {
+    color:#fff;
+	background-color:#E16B63;
+}
+.pricing-content.featured h3 {
+    color:#1b2779;
+	/* background:#5C6AC3; */
+}
+
+
+
+/* team */
+.cbp-l-grid-team-name {
+    color: #3fbbc0;
+}
+
+.cbp-l-filters-button .cbp-filter-counter {
+	background-color: #5C6AC3;
+}
+
+.cbp-l-filters-alignLeft .cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #5C6AC3;
+    border:1px solid #5C6AC3;
+}
+
+.cbp-l-filters-dropdownWrap {
+    background: #5C6AC3;
+}
+.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #5C6AC3;
+    border-color: #5C6AC3;
+}
+.cbp-l-caption-buttonLeft,
+.cbp-l-caption-buttonRight {
+    /* @editable properties */
+    background-color: #5C6AC3;
+}
+
+.cbp-l-caption-buttonLeft:hover,
+.cbp-l-caption-buttonRight:hover {
+    /* @editable properties */
+    background-color: #3fbbc0;
+}
+
+.form-control:focus {
+  border-color: #3fbbc0;
+}
